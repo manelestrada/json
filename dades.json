@@ -3,18 +3,18 @@
         "nom": "Joan",
         "email": "joan@gmail.com",
         "contrasenya": 1234,
-        "img": "https://randomuser.me/api/portraits/men/101.jpg"
+        "img": "https://randomuser.me/api/portraits/men/50.jpg"
     },
     {
         "nom": "Julia",
         "email": "julia@gmail.com",
         "contrasenya": 5678,
-        "img": "https://randomuser.me/api/portraits/men/102.jpg"
+        "img": "https://randomuser.me/api/portraits/men/51.jpg"
     },
     {
         "nom": "Minerva",
         "email": "minerva@gmail.com",
         "contrasenya": 9012,
-        "img": "https://randomuser.me/api/portraits/men/103.jpg"
+        "img": "https://randomuser.me/api/portraits/men/52.jpg"
     }
 ]
